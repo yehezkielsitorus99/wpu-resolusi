@@ -2,4 +2,5 @@ Rencana 2 Tahun
 
 - Pengembangan Plant Faster 
 - Lebih Interaktif
+Use Vue
 - Tambahkan Data structure
