@@ -2,3 +2,4 @@ Rencana 2 Tahun
 
 - Pengembangan Plant Faster 
 - Lebih Interaktif
+- Tambahkan Data structure
